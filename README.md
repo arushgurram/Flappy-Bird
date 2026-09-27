@@ -7,7 +7,7 @@ A classic 2D Flappy Bird clone built using Python and Pygame. Navigate the bird 
 ## Preview
 
 <p align="center">
-  <img src="flappybirdpreview.png" alt="Flappy Bird Preview" width="400">
+  <img src="flappy-bird-preview.png" alt="Flappy Bird Preview" width="400">
 </p>
 
 ---
