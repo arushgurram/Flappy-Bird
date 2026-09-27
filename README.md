@@ -10,5 +10,5 @@ A classic 2D Flappy Bird clone built using Python and Pygame. Navigate the bird 
 - **PyInstaller Compatibility:** Implements `resource_path` logic to allow effortless bundling into executable `.exe` files.
 
 ## Requirements
-- **Python 3.x
-- **pygame library
+- Python 3.x
+- pygame library
