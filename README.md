@@ -12,3 +12,8 @@ A classic 2D Flappy Bird clone built using Python and Pygame. Navigate the bird 
 ## Requirements
 - **Python 3.x**
 - **pygame library**
+- **flappybird.png**
+- **flappybirdbg.png**
+- **flappybirdicon.ico**
+- **toppipe.png**
+- **bottompipe.png**
